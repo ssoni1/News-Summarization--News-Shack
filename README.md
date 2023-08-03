@@ -1,5 +1,6 @@
 # News-Summarization--News-Shack 
-### Presentation Link: 
+### Presentation Link: https://drive.google.com/file/d/1XpJFc_n-BgeqbLW5fP67OVVxkfylm5Ob/view?usp=drivesdk
+### Hugging Face Transformer: https://huggingface.co/ajitjadhav/t5-small-finetuned-t5-summarization
 
 Welcome to News Shack, an innovative abstractive news summarization web application built using Streamlit. This powerful tool empowers users to quickly access summaries of the latest news from Google RSS feeds across various categories. With News Shack, users can also fetch news summaries specific to their favorite topics.Additionally, it offers the flexibility to customize the number of articles they wish to summarize, providing a tailored news consumption experience.
 
